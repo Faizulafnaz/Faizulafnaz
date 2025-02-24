@@ -1,127 +1,59 @@
-Hi there, I'm Faiz Ul Afnaz! 👋
+# Hi there! I'm Faiz Ul Afnaz
 
-🚀 Full-Stack Developer | Python | Django | React
+## 🚀 Full Stack Developer | Python | Django | React
 
-I'm a passionate self-taught Python full-stack developer with a knack for building robust web applications and solving complex challenges. My journey has led me to develop real-time chat applications, e-commerce platforms, and various mini-projects. I thrive on transforming ideas into functional solutions.
-
-
----
-
-🛠 Tech Stack & Skills
-
-Programming Languages:
-
-🐍 Python (Advanced)
-
-⚡ JavaScript
-
-
-Web Development:
-
-🌐 Django, React.js, HTML, CSS
-
-
-Back-End Development:
-
-🎯 Django REST Framework, API Development
-
-
-Database Management:
-
-🗄️ PostgreSQL, MongoDB, SQL
-
-
-Cloud Services:
-
-☁️ AWS (Amazon EC2)
-
-
-Other Technologies:
-
-🔥 Firebase, React Hooks, Redux
-
-⚙️ Django ORM
-
-🧠 Data Structures & Algorithms
-
-
+I'm a self-taught Python full-stack developer passionate about building robust web applications and solving complex challenges. With hands-on experience in Django, React, PostgreSQL, and RESTful APIs, I love crafting scalable and efficient solutions.
 
 ---
 
-📌 Projects
+## 🔧 Tech Stack
 
-🌟 Real-time Chat Application
-
-A feature-rich chat platform with:
-
-🗨️ Private & Group Messaging
-
-🎥 Video & Voice Calling
-
-🔄 Real-time communication using Django Channels & WebSockets
-
-
-Tech Stack: Django REST Framework | PostgreSQL | React | ZegoCloud
-
-🔗 GitHub Repository
-
-🛍️ E-commerce Platform
-
-A fully functional e-commerce website with:
-
-🔐 User Authentication
-
-🛒 Product Discovery & Secure Payments (Razorpay)
-
-🖥️ Admin Dashboard for Order & Coupon Management
-
-
-Tech Stack: Django | React | PostgreSQL | Razorpay
-
-🔗 GitHub Repository
-
-🎭 Mini Projects
-
-OLX Clone - 🔗 Repo
-
-Netflix Clone - 🔗 Repo
-
-Tazza (Frontend) - 🔗 Repo
-
-Rockstar (Frontend) - 🔗 Repo
-
-
+- **Programming Languages:** Python (Advanced), JavaScript
+- **Frontend:** React.js, HTML, CSS, Redux, React Hooks
+- **Backend:** Django, Django REST Framework, API Development
+- **Database:** PostgreSQL, MongoDB, SQL
+- **Cloud Services:** AWS (EC2, S3), Firebase
+- **Other:** Django ORM, WebSockets, ZegoCloud
 
 ---
 
-💼 Work Experience
+## 📌 Featured Projects
 
-Python Developer - Stackerbee Technologies (Mar 2024 - Oct 2024)
+### 1️⃣ **Real-time Chat Application** 🔥
+- Private & Group messaging, Video & Voice calls
+- Built using Django REST Framework, React, Django Channels, PostgreSQL, WebSockets, ZegoCloud
+- [GitHub Repository](https://github.com/Faizulafnaz/life-link-backend)
 
-Enhanced AI model accuracy and performance.
+### 2️⃣ **E-commerce Platform** 🛒
+- User authentication, Secure payment integration, Admin dashboard
+- Tech Stack: Django, React, PostgreSQL, Razorpay
+- [GitHub Repository](https://github.com/Faizulafnaz/EyeEnvyEcom)
 
-Optimized AI prompts for better user interactions.
-
-Built a university management system & Telegram bot for automated bookings.
-
-
-Freelance Full-Stack Developer (2023 - Present)
-
-Developed community forums with social media-like features.
-
-Designed and deployed AI-powered solutions using large language models.
-
-
+### 3️⃣ **Mini Projects**
+- **OLX Clone** - [GitHub](https://github.com/Faizulafnaz/olx)
+- **Netflix Clone** - [GitHub](https://github.com/Faizulafnaz/netflix)
+- **Tazza (Frontend)** - [GitHub](https://github.com/Faizulafnaz/Tazza)
+- **Rockstar (Frontend)** - [GitHub](https://github.com/Faizulafnaz/rockstar)
 
 ---
 
-📫 Connect with Me
+## 💼 Work Experience
 
-🌐 LinkedIn
+### 🔹 **Python Developer** - Stackerbee Technologies *(Mar 2024 - Oct 2024)*
+- Improved AI models' accuracy and efficiency.
+- Developed AI-powered solutions using Dolphin, Flamingo, and Bulba.
 
-💻 GitHub
+### 🔹 **Freelance Full Stack Developer** *(2023 - Present)*
+- Developed social media features: forums, posts, likes, and comments.
+- Built a university management system to streamline workflows.
+- Created and deployed a Telegram bot to automate booking processes.
 
-📧 faizulafnaz22@gmail.com
+---
 
+## 📫 Let's Connect!
+- 📩 Email: [faizulafnaz22@gmail.com](mailto:faizulafnaz22@gmail.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/faizulafnaz/)
+- 🏗️ GitHub: [GitHub Profile](https://github.com/Faizulafnaz)
 
-Let's build something amazing together! 🚀
+Let's collaborate and build something amazing! 🚀
+
