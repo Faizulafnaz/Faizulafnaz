@@ -1,6 +1,6 @@
 # Hi there! I'm Faiz Ul Afnaz 
 
-## 🚀 Full Stack Developer | Python & JavaScript Enthusiast
+## 🚀 Full Stack Developer | Python | Django | React
 
 I'm a self-taught Python full-stack developer passionate about building robust web applications and solving complex challenges. With hands-on experience in Django, React, PostgreSQL, and RESTful APIs, I love crafting scalable and efficient solutions.
 
