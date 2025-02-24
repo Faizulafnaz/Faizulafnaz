@@ -1,19 +1,27 @@
-# Hi there! I'm Faiz Ul Afnaz
+# Hi there! I'm Faiz Ul Afnaz 
 
-## 🚀 Full Stack Developer | Python | Django | React
+## 🚀 Full Stack Developer | Python & JavaScript Enthusiast
 
 I'm a self-taught Python full-stack developer passionate about building robust web applications and solving complex challenges. With hands-on experience in Django, React, PostgreSQL, and RESTful APIs, I love crafting scalable and efficient solutions.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-- **Programming Languages:** Python (Advanced), JavaScript
-- **Frontend:** React.js, HTML, CSS, Redux, React Hooks
-- **Backend:** Django, Django REST Framework, API Development
-- **Database:** PostgreSQL, MongoDB, SQL
-- **Cloud Services:** AWS (EC2, S3), Firebase
-- **Other:** Django ORM, WebSockets, ZegoCloud
+### 💻 Frontend
+🔹 React.js | Redux | React Hooks | HTML | CSS | TailwindCSS
+
+### 🖥️ Backend
+🔹 Django | Django REST Framework | API Development | WebSockets
+
+### 🗄️ Databases
+🔹 PostgreSQL | MongoDB | SQL | Django ORM
+
+### ☁️ Cloud & DevOps
+🔹 AWS (EC2, S3) | Firebase | Docker | Git & GitHub
+
+### 🛠️ Other Tools & Technologies
+🔹 ZegoCloud | WebSockets | Payment Gateway Integration (Razorpay)
 
 ---
 
